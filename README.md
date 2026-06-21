@@ -1,24 +1,81 @@
-# 💫 About Me:
-# Hi there, I'm Jeggumantri Sameer Patnaik 👋 <br>### Final Year Computer Science & Engineering Student | Aspiring Software Developer<br><br><p align="left"><br>  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20--%20Andhra%20University-blue?style=flat-square&logo=graduation-cap" alt="Education"><br>  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-pin?style=flat-square&logo=google-maps&logoColor=white&color=red" alt="Location"><br>  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Machine%20Learning-orange?style=flat-square" alt="Focus"><br></p><br><br>---<br><br>## 🚀 About Me<br><br>I am a final-year Computer Science and Engineering student at **Andhra University College of Engineering**, currently based in **Bangalore**. I specialize in building full-stack web applications and integrating machine learning solutions to solve real-world industrial problems.<br><br>- 🏢 **Experience:** Completed 2 backend and full-stack software internships at **RINL Steel Plant**.<br>- 🛠️ **Core Expertise:** MERN Stack (MongoDB, Express.js, React, Node.js), Python, Computer Vision, and MySQL.<br>- 🧠 **Problem Solving:** Deeply focused on Data Structures & Algorithms (DSA) and optimizing algorithmic complexity.<br>- 🎯 **Current Goal:** Actively seeking Full-Time Software Developer, Associate System Engineer, or Graduate Engineer Trainee roles.<br><br>---<br><br>## 🛠️ Tech Stack & Tooling<br><br>| Category | Technologies |<br>| :--- | :--- |<br>| **Languages** | Python, JavaScript (ES6+), C/C++, SQL |<br>| **Frontend Frameworks** | React.js, Redux, Context API, HTML5, CSS3, Bootstrap |<br>| **Backend & Databases** | Node.js, Express.js, MySQL (Relational Modeling, Joins), MongoDB |<br>| **Machine Learning & CV**| OpenCV, MediaPipe, NumPy, Scikit-learn |<br>| **Developer Tools** | Git, GitHub, VS Code, Postman, GitHub Copilot |<br><br>---<br><br>## 🏢 Professional Internship Experience<br><br>### 📍 RINL Steel Plant (Visakhapatnam Steel Plant)<br>**Software Developer Intern (Computer Vision & Safety Systems)**  <br>* **Project:** Industrial PPE (Personal Protective Equipment) Detection System  <br>* **Tech Stack:** Python, OpenCV, Machine Learning, React.js  <br>* **Impact:** Engineered an automated, real-time safety monitoring application designed for high-risk industrial zones. The system processes live camera feeds using Computer Vision to detect compliance with safety gear (helmets, vests) and relays status updates to a web dashboard, minimizing safety enforcement overhead.<br><br>**Full-Stack Developer Intern**  <br>* **Project:** Splitwise Clone (Financial Expense Management)  <br>* **Tech Stack:** React.js, Node.js, Express.js, MySQL Database  <br>* **Impact:** Developed a scalable multi-user expense tracking system. Designed a normalized MySQL database schema to handle complex transaction histories, subqueries, and table joins. Implemented a custom settlement algorithm to calculate split bills and minimize the net debt paths among group members.<br><br>---<br><br>## 🛠️ Core Projects<br><br>### 💼 Job Portal Application<br>> **Tech Stack:** React.js, Node.js, Express.js, MongoDB<br>* Built a complete, responsive recruitment platform featuring dual-user dashboards (Recruiters vs. Candidates).<br>* Integrated secure JWT-based user authentication and role-based access control.<br>* Enabled functionalities for dynamic job posting, filter-based candidate searches, resume uploads, and application pipeline tracking.<br><br>### 🍕 Food Delivery Web App<br>> **Tech Stack:** React.js, Context API, REST APIs, CSS Modules<br>* Developed a high-performance frontend food application simulating real-time user workflows.<br>* Implemented complex state management using React Context API to handle dynamic shopping cart updates, item counters, and pricing calculations.<br>* Crafted a fully responsive user interface utilizing modern CSS layouts for seamless mobile and desktop cross-compatibility.<br><br>---<br><br>## 📊 Coding Profiles & Metrics<br><br>I regularly practice problem-solving to strengthen my foundational logic and prepare for high-volume technical assessments.<br><br>* 🖥️ **LeetCode:** [Sameer Patnaik](https://leetcode.com/u/sameerpatnaik/)<br>* 🧠 **GeeksforGeeks:** [Sameer patnaik](https://www.geeksforgeeks.org/profile/sameerpatwajz)<br><br><br>---<br><br>## 📈 GitHub Performance Insights<br><br><p align="left"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats" height="180px"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages Used" height="180px"/><br></p><br><br><p align="left"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" /><br></p><br><br>---<br><br>## 📫 Let's Connect!<br><br>- **Email:** sameerpatnaik193@gmail.com<br>- **LinkedIn:** [linkedin.com/in/jeggumantri-sameer-patnaik](https://www.linkedin.com/in/jeggumantri-sameer-patnaik/)<br>- **Portfolio:** [https://samir-skill-hub.lovable.app/](https://samir-skill-hub.lovable.app/) *(Optional: Replace or remove)*
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeggumantri-sameer-patnaik/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sameer Patnaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerpatnaik193@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sameer84398&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sameer84398&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sameer84398&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sameer84398&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# Hi there, I'm Jeggumantri Sameer Patnaik 👋 
+### Final Year Computer Science & Engineering Student | Aspiring Software Developer
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sameer84398&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+* 🎓 **B.Tech Computer Science & Engineering Student** at Andhra University College of Engineering
+* 💻 **Aspiring Software Developer** passionate about full-stack architectures and machine learning
+* 🛠️ **Skilled in:** MERN Stack, Python, Computer Vision (OpenCV), and SQL databases
+* 🚀 **Currently building:** Real-world industrial applications and automated safety systems
+* 🌱 **Always learning, exploring, and growing.**
+
+---
+
+## 🌐 Socials:
+<p align="left">
+  <a href="https://linkedin.com/in/sameer-patnaik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sameerpatnaik193@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+---
+
+## 🏢 Professional Internship Experience
+
+### 📍 RINL Steel Plant (Visakhapatnam Steel Plant)
+**Software Developer Intern (Computer Vision & Safety Systems)**  
+* **Project:** Industrial PPE (Personal Protective Equipment) Detection System  
+* **Tech Stack:** Python, OpenCV, Machine Learning, React.js  
+* **Impact:** Engineered an automated, real-time safety monitoring application designed for high-risk industrial zones. The system processes live camera feeds using Computer Vision to detect compliance with safety gear (helmets, vests) and relays status updates to a web dashboard.
+
+**Full-Stack Developer Intern**  
+* **Project:** Splitwise Clone (Financial Expense Management)  
+* **Tech Stack:** React.js, Node.js, Express.js, MySQL Database  
+* **Impact:** Developed a multi-user expense tracking system. Designed a normalized MySQL database schema to handle complex transaction histories, subqueries, and table joins. Implemented a custom settlement algorithm to calculate split bills and minimize debt paths.
+
+---
+
+## 🛠️ Core Projects
+
+### 💼 Job Portal Application
+* **Tech Stack:** React.js, Node.js, Express.js, MongoDB
+* Built a complete, responsive recruitment platform featuring dual-user dashboards (Recruiters vs. Candidates).
+* Integrated secure JWT-based user authentication and role-based access control with application pipeline tracking.
+
+### 🍕 Food Delivery Web App
+* **Tech Stack:** React.js, Context API, REST APIs
+* Developed a high-performance frontend food application simulating real-time user workflows.
+* Implemented complex state management using React Context API to handle dynamic shopping cart updates and item counters.
+
+---
+
+## 📊 Coding Profiles
+
+* 🖥️ **LeetCode:** [View Profile](https://leetcode.com/Sameer64390)
+* 🧠 **GeeksforGeeks:** [View Profile](https://auth.geeksforgeeks.org/user/sameerpatnaik193)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer64390&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sameer's GitHub Stats" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer64390&layout=compact&theme=tokyonight" alt="Top Languages Used" height="195px"/>
+</p>
